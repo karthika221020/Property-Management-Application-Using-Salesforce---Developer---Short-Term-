@@ -1,1 +1,28 @@
+Name - PALAPANDALA KARTHIKA
+LEARNING TRACK - DEVELOPER
+Email-karthikapalapandala@gmail.com
+Trailhead Profile-https://www.salesforce.com/trailblazer/karthikapalapandala
+Username (Developer Org)-karthikapalapandala@gdcproject.com
+Contact-9182955048
+
+Name - RACHAGOLLA JYOTHIKA
+LEARNING TRACK - DEVELOPER
+Email-jyothikayadav467@gmail.com
+Trailhead Profile-https://www.salesforce.com/trailblazer/jyothikarachagolla
+Username (Developer Org)-jyothikayadav467@gdcproject.com
+Contact-9000625335
+
+Name - POLIPONGU MEGHANA
+LEARNING TRACK - DEVELOPER
+Email-pmeghana696@gmail.com
+Trailhead Profile-https://www.salesforce.com/trailblazer/meghanapolipongu
+Username (Developer Org)-pmeghana696@gdcproject.com
+Contact-8121083189
+
+Name - RANGANADHAM NANDINI
+LEARNING TRACK - DEVELOPER
+Email-ranganadhamnandini@gmail.com
+Trailhead Profile-https://www.salesforce.com/trailblazer/nandiniranganadham
+Username (Developer Org)-ranganadhamnandini@gdcproject.com
+Contact-6304243886
 
